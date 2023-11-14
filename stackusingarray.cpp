@@ -9,8 +9,8 @@ void display();
 int main()
 {
 	int ch;
-	cout<<"Student name- Yash Lade";
-	cout<<"\nEnroll. no.- 0832CS221229\n";
+	cout<<"\n@Author name- Yash Lade \n";
+	
 	
 	do
 	{
